@@ -250,11 +250,11 @@ defaults:
   # _data-fitting
   - scope:
       path: ""
-      type: data-fitting
+      type: multi-agent-robust-pgo
     values:
       layout: single
       author_profile: false
       read_time: true
       share: true
       sidebar:
-         nav: data-fitting
+         nav: multi-agent-robust-pgo
