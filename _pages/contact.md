@@ -3,56 +3,79 @@ permalink: /contact/
 title: "Get in Touch"
 ---
 
-<style>
-  body {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-  }
-  img {
-    border-radius: 50%;
-    margin: 0 auto;
-    display: block;
-  }
-  .contact-container {
-    max-width: 600px;
-    margin: 40px auto;
-  }
-  ul {
-    list-style: none;
-    padding: 0;
-    text-align: center;
-  }
-  li {
-    margin-bottom: 15px;
-  }
-  a {
-    text-decoration: none;
-    color: #4285f4;
-    transition: color 0.3s ease;
-  }
-  a:hover {
-    color: #1a73e8;
-  }
-</style>
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="contact-container">
-  <img src="/images/profile.jpg" alt="My Picture" width="200"/>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      color: #333;
+    }
 
-  ## Hello there! 👋
+    img {
+      border-radius: 50%;
+      margin: 0 auto;
+      display: block;
+    }
 
-  I'm Ansh Shah, and I'm thrilled that you want to get in touch. Feel free to reach out through any of the following channels:
+    .contact-container {
+      max-width: 600px;
+      margin: 40px auto;
+    }
 
-  ### Email
-  - 📧 [anshshah3009@gmail.com](mailto:anshshah3009@gmail.com)
+    ul {
+      list-style: none;
+      padding: 0;
+      text-align: center;
+    }
 
-  ### Connect on Social Media
-  - 👔 [LinkedIn](http://linkedin.com/in/anshshah3009)
-  - 💼 [GitHub](http://github.com/AnshShah3009)
+    li {
+      margin-bottom: 15px;
+    }
 
-  Don't hesitate to drop a message, whether it's about collaboration, projects, or just to say hi. I'm looking forward to hearing from you!
+    a {
+      text-decoration: none;
+      color: #4285f4;
+      transition: color 0.3s ease;
+    }
 
-  <!-- Add some creative elements or personal touch here if you like! -->
-</div>
+    a:hover {
+      color: #1a73e8;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="contact-container">
+    <img src="/images/profile.jpg" alt="My Picture" width="200"/>
+
+    <h2>Hello there! 👋</h2>
+
+    <p>I'm Ansh Shah, and I'm thrilled that you want to get in touch. Feel free to reach out through any of the following channels:</p>
+
+    <h3>Email</h3>
+    <ul>
+      <li><a href="mailto:anshshah3009@gmail.com">📧 anshshah3009@gmail.com</a></li>
+    </ul>
+
+    <h3>Connect on Social Media</h3>
+    <ul>
+      <li><a href="http://linkedin.com/in/anshshah3009">👔 LinkedIn</a></li>
+      <li><a href="http://github.com/AnshShah3009">💼 GitHub</a></li>
+    </ul>
+
+    <p>Don't hesitate to drop a message, whether it's about collaboration, projects, or just to say hi. I'm looking forward to hearing from you!</p>
+
+    <!-- Add some creative elements or personal touch here if you like! -->
+  </div>
+</body>
+
+</html>
+
 
 <!-- ---
 permalink: /contact/
