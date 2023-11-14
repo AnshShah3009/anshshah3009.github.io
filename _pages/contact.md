@@ -2,8 +2,6 @@
 permalink: /contact/
 title: "Get in Touch"
 ---
-
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
