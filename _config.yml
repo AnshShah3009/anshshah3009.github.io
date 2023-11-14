@@ -62,7 +62,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Ansh Shah"
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "A computer science student at Appalachian State University who also happens to be an unashamed cheese-a-tarian, computer geek, nerd, and bird lover."
   location         : "Hyderabad, India"
   email            : "anshshah3009@gmail.com"
