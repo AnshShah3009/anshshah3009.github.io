@@ -88,29 +88,32 @@ title: "Get in Touch"
 
     <p>I'm Ansh Shah, and I'm thrilled that you want to get in touch. Feel free to reach out through any of the following channels:</p>
 
+    <!-- Formspree form -->
+    <form action="https://formspree.io/f/mpzgnvqv" method="POST">
+      <label for="email">Your Email:</label>
+      <input type="email" name="email" required>
+
+      <label for="message">Your Message:</label>
+      <textarea name="message" required></textarea>
+
+      <button type="submit">Send</button>
+    </form>
+
     <h3>Email</h3>
     <ul>
       <li><a href="mailto:anshshah3009@gmail.com">📧 anshshah3009@gmail.com</a></li>
     </ul>
 
-    <h3>Connect on Social Media</h3>
+    <h3>Connect on Nerd Social Media</h3>
     <ul>
       <li><a href="http://linkedin.com/in/anshshah3009">👔 LinkedIn</a></li>
       <li><a href="http://github.com/AnshShah3009">💼 GitHub</a></li>
+      <li><a href="https://twitter.com/baymax3009">🐦 Twitter</a></li>
     </ul>
 
     <p>Don't hesitate to drop a message, whether it's about collaboration, projects, or just to say hi. I'm looking forward to hearing from you!</p>
 
-    <!-- Formspree form -->
-    <form action="https://formspree.io/f/mpzgnvqv" method="POST">
-      <label for="email">Your email:</label>
-      <input type="email" name="email" required>
-
-      <label for="message">Your message:</label>
-      <textarea name="message" required></textarea>
-
-      <button type="submit">Send</button>
-    </form>
+    
 
     <!-- Add some creative elements or personal touch here if you like! -->
   </div>
