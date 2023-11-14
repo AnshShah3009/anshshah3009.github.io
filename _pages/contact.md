@@ -46,6 +46,37 @@ title: "Get in Touch"
     a:hover {
       color: #1a73e8;
     }
+
+    form {
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    input,
+    textarea {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      box-sizing: border-box;
+    }
+
+    button {
+      background-color: #4285f4;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #1a73e8;
+    }
   </style>
 </head>
 
@@ -70,11 +101,23 @@ title: "Get in Touch"
 
     <p>Don't hesitate to drop a message, whether it's about collaboration, projects, or just to say hi. I'm looking forward to hearing from you!</p>
 
+    <!-- Formspree form -->
+    <form action="https://formspree.io/f/mpzgnvqv" method="POST">
+      <label for="email">Your email:</label>
+      <input type="email" name="email" required>
+
+      <label for="message">Your message:</label>
+      <textarea name="message" required></textarea>
+
+      <button type="submit">Send</button>
+    </form>
+
     <!-- Add some creative elements or personal touch here if you like! -->
   </div>
 </body>
 
 </html>
+
 
 
 <!-- ---
