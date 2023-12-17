@@ -15,4 +15,4 @@ By sharing my passion for this research through my writing, I hope to excite and
 
 ## How to Contact
 
-My contact information is on the left side of the window, where the author profile is displayed. In addition, there is a comments section under every blog post. I welcome all feedback and discussion!
+My contact information can be found under the contact section at the top. In addition, there is a comments section under every blog post. I welcome all feedback and discussion!
