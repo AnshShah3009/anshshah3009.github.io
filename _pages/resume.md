@@ -10,6 +10,6 @@ title: "Resume"
 <iframe
     src="/documents/Ansh_Shah_s_CV-6.pdf"
     width="800px"
-    height="1600px"
+    height="1128px"
     style="border:none"
 ></iframe>
