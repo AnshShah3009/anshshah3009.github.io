@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-permalink: /multi-agent-robust-pgo/overview/
+permalink: /multi-agent-robust-pgo/
 ---
 # Project Overview
 
