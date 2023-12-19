@@ -261,7 +261,7 @@ defaults:
       share: true
       sidebar:
          nav: multi-agent-robust-pgo
-         
+  #autonomous_drone
   - scope:
       path: ""
       type: autonomous_drone
@@ -272,3 +272,4 @@ defaults:
       share: true
       sidebar:
           nav: autonomoous_drone
+    

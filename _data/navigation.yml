@@ -96,9 +96,9 @@ projects:
   - title: "Projects"
     children:
       - title: "Multi Agent Robust PGO"
-        # url: /multi-agent-robust-pgo/overview/
+        url: /multi-agent-robust-pgo/overview/
       - title: "Autonomous Drone"
-        # url: /autonomous_drone/overview/
+        url: /autonomous_drone/overview/
         
 # projects:
 #     - title: "Projects"
