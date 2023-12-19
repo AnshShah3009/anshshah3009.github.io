@@ -14,8 +14,8 @@ description              : "A central location where I can express myself throug
 url                      : "https://anshshah3009.github.io"
 baseurl                  : 
 gh_repo                  : "https://github.com/AnshShah3009/anshshah3009.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            :  # true, false (default)
+teaser                   : "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              :  true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
