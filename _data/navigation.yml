@@ -71,7 +71,7 @@ autonomoous-drone:
     - title: "Autonomous Drone"
       children:
         - title: "Overview"
-          url: /autonomoous-drone/overview/
+          url: /autonomous-drone/overview/
 
         # - title: "Experimentation"
         #   url: /multi-agent-robust-pgo/experimentation/
