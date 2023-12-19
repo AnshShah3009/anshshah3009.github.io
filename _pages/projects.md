@@ -15,13 +15,13 @@ feature_row:
     title: "Autonomous Drone"
     excerpt: "This is a drone project"
 
-  - image_path: https://github.com/AnshShah3009/Micromouse/blob/master/Media/IMG_20191130_203601.jpg
+  - image_path: portfolio/Cronus/cronus_design.jpg
     url: /cronus/overview/
     alt: "Cronus"
     title: "Cronus"
     excerpt: "This is a survillance bot project"
 
-  - image_path: https://github.com/AnshShah3009/Micromouse/blob/master/Media/IMG_20191130_203601.jpg
+  - image_path: portfolio/Micromouse/IMG_20191130_203444.jpg
     url: /micromouse/overview/
     alt: "Micromouse"
     title: "Micromouse"
