@@ -239,6 +239,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _chemistry-solver
   - scope:
       path: ""
@@ -250,6 +251,7 @@ defaults:
       share: true
       sidebar:
          nav: chemistry-solver
+
   # _multirobot
   - scope:
       path: ""
@@ -261,6 +263,7 @@ defaults:
       share: true
       sidebar:
          nav: multi-agent-robust-pgo
+
   #autonomous_drone
   - scope:
       path: ""
@@ -272,4 +275,16 @@ defaults:
       share: true
       sidebar:
           nav: autonomous-drone
+          
+  #cronus
+  - scope:
+      path: ""
+      type: cronus
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: true
+      sidebar:
+          nav: cronus
     
