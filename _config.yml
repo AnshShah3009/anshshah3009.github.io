@@ -219,6 +219,12 @@ collections:
     multi-agent-robust-pgo:
       output: true
       permalink: /:collection/:path/
+    autonomous-drone:
+      output: true
+      permalink: /:collection/:path/
+    cronus:
+      output: true
+      permalink: /:collection/:path/
 
 defaults:
   # _pages
