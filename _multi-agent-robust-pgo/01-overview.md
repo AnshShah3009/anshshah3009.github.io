@@ -2,8 +2,6 @@
 title: "Overview"
 permalink: /multi-agent-robust-pgo/
 ---
-# Project Overview
-
 ## Introduction
 The Multi-Agent Mapping with FinderNet and Graduated Non-Convexity project is a comprehensive endeavor aimed at revolutionizing the field of multi-robot mapping. This project stems from the challenges encountered in efficiently covering large areas with multiple robots, particularly dealing with issues related to data noise, outliers, and high communication bandwidth requirements.
 
