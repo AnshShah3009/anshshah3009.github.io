@@ -271,5 +271,5 @@ defaults:
       read_time: true
       share: true
       sidebar:
-          nav: autonomoous-drone
+          nav: autonomous-drone
     
