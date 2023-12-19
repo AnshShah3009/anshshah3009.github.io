@@ -67,11 +67,11 @@ multi-agent-robust-pgo:
         # - title: "Result"
         #   url: /multi-agent-robust-pgo/result/
 
-autonomous_drone:
+autonomoous-drone:
     - title: "Autonomous Drone"
       children:
         - title: "Overview"
-          url: /autonomous_drone/overview/
+          url: /autonomoous-drone/overview/
 
         # - title: "Experimentation"
         #   url: /multi-agent-robust-pgo/experimentation/

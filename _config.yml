@@ -264,12 +264,12 @@ defaults:
   #autonomous_drone
   - scope:
       path: ""
-      type: autonomous_drone
+      type: autonomous-drone
     values:
       layout: single
       author_profile: false
       read_time: true
       share: true
       sidebar:
-          nav: autonomoous_drone
+          nav: autonomoous-drone
     
