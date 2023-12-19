@@ -4,6 +4,11 @@ permalink: /autonomous-drone/overview/
 ---
 # Project Overview
 
+
+## YouTube Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QwA_yBjVZdA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Introduction
 The Multi-Agent Mapping with FinderNet and Graduated Non-Convexity project is a comprehensive endeavor aimed at revolutionizing the field of multi-robot mapping. This project stems from the challenges encountered in efficiently covering large areas with multiple robots, particularly dealing with issues related to data noise, outliers, and high communication bandwidth requirements.
 
