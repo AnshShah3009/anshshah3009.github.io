@@ -79,6 +79,17 @@ Autonomous_Drone:
         # - title: "Result"
         #   url: /multi-agent-robust-pgo/result/
 
+Cronus:
+    - title: "Cronus"
+      children:
+        - title: "Overview"
+          url: /cronus/overview/
+
+        # - title: "Experimentation"
+        #   url: /multi-agent-robust-pgo/experimentation/
+
+        # - title: "Result"
+        #   url: /multi-agent-robust-pgo/result/
 
 
 projects:
