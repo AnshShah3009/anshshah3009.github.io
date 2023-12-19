@@ -7,6 +7,15 @@ title: "Resume"
 ---
 ## Mission Statement
 
+
+<iframe
+	src="/documents/Ansh_Shah_s_CV-6.pdf"
+	width="100%"
+	height="100%"
+	style="border:none"
+></iframe>
+
+
 My mission is to advance the field of swarm robotics and nature-inspired efficient robotic systems. Through biomimicry and studying natural systems like bee swarms, I aim to develop innovative robotics solutions for real-world challenges in mapping, exploration, construction, medicine, and more.
 
 I envision a future where robot swarms adeptly coordinate and collaborate just as organism swarms do, leading to transformative applications. My goal is to contribute cutting-edge research pushing us toward this future. I aim to build on existing work in simultaneous localization and mapping, path planning, object detection, and language understanding to create robust swarm systems.

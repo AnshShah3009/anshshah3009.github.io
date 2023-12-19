@@ -9,7 +9,7 @@ permalink: /autonomous-drone/overview/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QwA_yBjVZdA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Image Description](images/portfolio/AutonomousDrone/IMG_20191116_210726.jpg)
+![Image Description](/images/portfolio/AutonomousDrone/IMG_20191116_210726.jpg)
 
  
 # Autonomous Drone Project Display
