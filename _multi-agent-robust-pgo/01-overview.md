@@ -38,5 +38,4 @@ Thorough evaluations using diverse datasets are conducted to assess the performa
 To validate the practical applicability of the approach, simulations are conducted using the Husky robot in an indoor office environment. The showcased results demonstrate the method's precision in map creation while effectively handling outliers in loop closures. This real-world simulation enhances the credibility and applicability of the project.
 
 ## Conclusion
-In conclusion, the Multi-Agent
-
+In conclusion, the Multi-Agent Mapping with FinderNet and Graduated Non-Convexity project presents a groundbreaking solution to the challenges posed by noisy data and communication bandwidth limitations in multi-robot mapping. Through the integration of FinderNet and GNC, the project not only addresses these challenges but also sets a new standard for map quality and localization accuracy in diverse scenarios. The comprehensive evaluation and real-world simulations validate the practical viability of the approach, positioning it as a noteworthy advancement in the field of multi-agent mapping.
