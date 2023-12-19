@@ -96,11 +96,8 @@ projects:
   - title: "Projects"
     children:
       - title: "Multi Agent Robust PGO"
-        url: /multi-agent-robust-pgo/overview/
       - title: "Autonomous Drone"
-        url: /multi-agent-robust-pgo/overview/
       - title: "Cronus"
-        url: /cronus/overview/
 
 # projects:
 #     - title: "Projects"
