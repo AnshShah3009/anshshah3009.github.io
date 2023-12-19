@@ -250,7 +250,7 @@ defaults:
       share: true
       sidebar:
          nav: chemistry-solver
-  # _data-fitting
+  # _multirobot
   - scope:
       path: ""
       type: multi-agent-robust-pgo
@@ -261,3 +261,14 @@ defaults:
       share: true
       sidebar:
          nav: multi-agent-robust-pgo
+         
+  - scope:
+      path: ""
+      type: autonomous_drone
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: true
+      sidebar:
+          nav: autonomoous_drone
