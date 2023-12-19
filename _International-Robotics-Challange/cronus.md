@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-permalink: /cronus/overview/
+permalink: /IRC/overview/
 ---
 # Overview
 

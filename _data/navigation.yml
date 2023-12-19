@@ -57,9 +57,10 @@ main:
 
 multi-agent-robust-pgo:
     - title: "Multi Agent Robust PGO"
-      children:
-        - title: "Overview"
-          url: /multi-agent-robust-pgo/overview/
+      url: /multi-agent-robust-pgo/
+      # children:
+      #   - title: "Overview"
+      #     url: /multi-agent-robust-pgo/overview/
 
         # - title: "Experimentation"
         #   url: /multi-agent-robust-pgo/experimentation/
