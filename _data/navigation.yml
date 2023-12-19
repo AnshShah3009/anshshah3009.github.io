@@ -91,6 +91,11 @@ cronus:
         # - title: "Result"
         #   url: /multi-agent-robust-pgo/result/
 
+micromouse:
+    - title: "Micromouse"
+      children:
+        - title: "Overview"
+          url: /micromouse/overview/
 
 projects:
   - title: "Projects"
@@ -98,6 +103,7 @@ projects:
       - title: "Multi Agent Robust PGO"
       - title: "Autonomous Drone"
       - title: "Cronus"
+      - title: "Micromouse"
 
 # projects:
 #     - title: "Projects"

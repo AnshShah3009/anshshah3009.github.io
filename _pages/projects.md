@@ -20,5 +20,11 @@ feature_row:
     alt: "Cronus"
     title: "Cronus"
     excerpt: "This is a survillance bot project"
+
+  - image_path: https://github.com/AnshShah3009/Micromouse/blob/master/Media/IMG_20191130_203601.jpg
+    url: /micromouse/overview/
+    alt: "Micromouse"
+    title: "Micromouse"
+    excerpt: "This is a micromouse project"
 ---
 {% include feature_row type="left"%}
