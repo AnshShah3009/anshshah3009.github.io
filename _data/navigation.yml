@@ -61,15 +61,27 @@ multi-agent-robust-pgo:
         - title: "Overview"
           url: /multi-agent-robust-pgo/overview/
 
-        - title: "Experimentation"
-          url: /multi-agent-robust-pgo/experimentation/
+        # - title: "Experimentation"
+        #   url: /multi-agent-robust-pgo/experimentation/
 
-        - title: "Result"
-          url: /multi-agent-robust-pgo/result/
+        # - title: "Result"
+        #   url: /multi-agent-robust-pgo/result/
+
+Autonomous_Drone:
+    - title: "Autonomous Drone"
+      children:
+        - title: "Overview"
+          url: /autonomous_drone/overview/
+
+        # - title: "Experimentation"
+        #   url: /multi-agent-robust-pgo/experimentation/
+
+        # - title: "Result"
+        #   url: /multi-agent-robust-pgo/result/
 
 
 projects:
     - title: "Projects"
       children:
         - title: "Multi Agent Robust PGO"
-        
+        - title: "Autonomous Drone"
