@@ -15,7 +15,7 @@ feature_row:
     title: "Autonomous Drone"
     excerpt: "This is a drone project"
 
-  - image_path: portfolio/Swarm_Slam/MultiRobotMapping.png
+  - image_path: https://github.com/AnshShah3009/Micromouse/blob/master/Media/IMG_20191130_203601.jpg
     url: /cronus/overview/
     alt: "Cronus"
     title: "Cronus"
