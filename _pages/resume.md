@@ -16,3 +16,4 @@ By sharing my passion for this research through my writing, I hope to excite and
 ## How to Contact
 
 My contact information can be found under the contact section at the top. In addition, there is a comments section under every blog post. I welcome all feedback and discussion!
+[Ansh_Shah_s_CV-6.pdf](https://github.com/AnshShah3009/anshshah3009.github.io/files/13711681/Ansh_Shah_s_CV-6.pdf)
