@@ -77,7 +77,7 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 150px; // Increase this value to make the image larger
     border-radius: 50%;
 
     @include breakpoint($large) {
