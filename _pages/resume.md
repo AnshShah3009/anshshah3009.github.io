@@ -10,9 +10,29 @@ title: "Resume"
 Resume may not be getting displayed on mobile devices. Please use a desktop to view the resume.
 [Resume](/documents/Ansh_Shah_s_CV-6.pdf)
 
-<iframe
+<!-- <iframe
     src="/documents/Ansh_Shah_s_CV-6.pdf"
     width="900"
     height="2540"
     style="border:none"
-></iframe>
+></iframe> -->
+
+
+<object
+	data="/documents/Ansh_Shah_s_CV-6.pdf"
+	type="application/pdf"
+	width="100%"
+	height="100%"
+>
+	<iframe
+		src="/documents/Ansh_Shah_s_CV-6.pdf"
+		width="100%"
+		height="100%"
+		style="border: none"
+	>
+		<p>
+			Your browser does not support PDFs.
+			<a href="/documents/Ansh_Shah_s_CV-6.pdf">Download the PDF</a>
+		</p>
+	</iframe>
+</object>
