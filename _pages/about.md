@@ -14,4 +14,4 @@ By sharing my passion for this research through my writing, I hope to excite and
 
 ## News
 
-- [2021-08-01] I am excited to announce that I will be joining the [Robotics Research Center](https://robotics.iiit.ac.in/) at IIIT Hyderabad as a Research Associate. I will be working with [Prof. Madhava Krishna](https://www.iiit.ac.in/people/faculty/mkrishna/) on Swarm SLAM and Diffusion based path planning.
+- [2021-08-01] I am excited to announce that I have joined the [Robotics Research Center](https://robotics.iiit.ac.in/) at IIIT Hyderabad as a Research Associate. I will be working with [Prof. Madhava Krishna](https://www.iiit.ac.in/people/faculty/mkrishna/) on Swarm SLAM and Diffusion based path planning.
