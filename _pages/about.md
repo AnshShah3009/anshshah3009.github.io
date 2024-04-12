@@ -5,6 +5,9 @@ permalink: /about/
 title: "About"
 
 ---
+## Paper Reading List
+[Click here to jump to my paper reading page](/paper-reading)
+
 ## Mission Statement
 My mission is to advance the field of swarm robotics and nature-inspired efficient robotic systems. Through biomimicry and studying natural systems like bee swarms, I aim to develop innovative robotics solutions for real-world challenges in mapping, exploration, construction, medicine, and more.
 
