@@ -9,4 +9,4 @@ title: "Reading List"
 List in development
 
 ## 13th April
-[![ArXiv](https://img.shields.io/badge/arXiv-2403.18807-b31b1b.svg)](https://arxiv.org/pdf/2403.18807.pdf){:target="_blank"} [Title of the Paper](https://arxiv.org/pdf/2403.18807.pdf){:target="_blank"}{:class="paper-title"}
+[![ArXiv](https://img.shields.io/badge/arXiv-2403.18807-b31b1b.svg)](https://arxiv.org/pdf/2403.18807.pdf){:target="_blank"} [AVAE: Adversarial Variational Auto Encoder](https://arxiv.org/pdf/2403.18807.pdf){:target="_blank"}{:class="paper-title"}
