@@ -435,10 +435,10 @@ h3 {
 
 /* Post Container */
 .post {
-    margin-bottom: 30px;
+    margin-bottom: 5px;
     padding: 15px;
     border: 1px solid #ddd; /* Border around each post */
-    border-radius: 8px; /* Rounded corners */
+    border-radius: 20px; /* Rounded corners */
     transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transition on hover */
 }
 
@@ -484,7 +484,7 @@ h3 {
 
 /* Image */
 .post-image {
-    width: 150px; /* Adjust the width of the image */
+    width: 275px; /* Adjust the width of the image */
     height: auto; /* Maintain the aspect ratio */
     margin-right: 20px; /* Space between the image and text */
     flex-shrink: 8px; /* Prevent the image from shrinking */
