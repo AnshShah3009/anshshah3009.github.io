@@ -44,6 +44,13 @@ table {
     border-spacing: 0;
 }
 
+strong, b {
+    font-weight: 900;
+    letter-spacing: +0.05em;     /* Tighten letter spacing slightly */
+    color: #000;                 /* Use pure black instead of any grey */
+    text-shadow: 0 0 0px #000;   /* Add subtle text shadow */
+    -webkit-text-stroke: 0.25px; /* Add stroke to the text */
+}
 /**************************************************/
 
 #main {
@@ -61,6 +68,7 @@ table {
 p {
     font-size: 14px;
     line-height: 24px;
+    text-align: justify;
 }
 
 /* Hyperlink */
@@ -536,4 +544,9 @@ h3 {
     /* line-height: 1.6; Improve line spacing */
     text-indent: -1em; /* Move the first line back to the left */
     padding-left: 1em; /* Add padding to create space for the bullet */
+    text-align: justify;
+}
+
+strong, b {
+    font-weight: bold;
 }
